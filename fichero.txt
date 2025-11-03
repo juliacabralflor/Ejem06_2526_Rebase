@@ -1,3 +1,9 @@
 Primera modificación
 segunda modificación
 tercera modificación
+<<<<<<< HEAD
+=======
+cuarta modificación
+cinco modificación
+sexta modificación
+>>>>>>> fc0db76 (Sexta modificación)
