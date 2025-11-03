@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Primera modificación
+=======
+Primera modificación
+segunda modificación
+tercera modificación
+>>>>>>> cb422ec (tercera modificación)
